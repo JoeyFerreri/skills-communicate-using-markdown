@@ -2,3 +2,11 @@
 ###### bababooey
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```cpp
+int main(){
+  cout<<"Hello World"
+  return 0;
+}
+```
